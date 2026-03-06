@@ -6,3 +6,4 @@ class classificador:
             return "Super prioritário"
         else:
             return "Normal"
+        ##atualizado
