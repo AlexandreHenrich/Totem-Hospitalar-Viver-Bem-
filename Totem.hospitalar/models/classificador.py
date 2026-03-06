@@ -6,3 +6,4 @@ class Classificador:
             return "Prioritário"
         else:
             return "Normal"
+        
