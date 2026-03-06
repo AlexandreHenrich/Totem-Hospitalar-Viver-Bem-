@@ -14,3 +14,4 @@ class Triagem:
             print("------------------------------------------")
             return True
         return False
+    #WOIW
